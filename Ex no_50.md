@@ -19,8 +19,8 @@ To write a C function to delete a node from a Doubly Linked List at the beginnin
 /*
 C function to delete a node from a Doubly Linked List at the beginning of the list.
 
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 
 #include <stdio.h>
